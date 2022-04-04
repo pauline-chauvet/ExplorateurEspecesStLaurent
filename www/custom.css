@@ -1,0 +1,96 @@
+
+.main-header .logo {
+  font-family: Montserrat, "Open Sans", Helvetica, Arial, sans-serif;
+  font-weight: 400;
+  font-size: 20px;
+}
+.main-sidebar{width: 16vw;}
+.main-header > .navbar { margin-left: 16vw;}
+.main-header .logo { width: 16vw;}
+.content-wrapper, 
+.main-footer,
+.right-side {margin-left: 16vw}
+
+.iframe-container {
+		text-align:center;
+		width:100%;
+		height: 20vw;
+		margin: 0 auto;
+}
+
+.skin-blue .main-header .logo {
+                              background-color: #8cc63e;
+                              }
+							  
+.skin-blue .main-header .navbar {
+                              background-color: #8cc63e;
+                              } 							  
+							  
+.skin-blue .main-sidebar {
+                            background-color: #e5e5e6;
+			font-family: Montserrat, "Open Sans", Helvetica, Arial, sans-serif;
+				font-weight: 90;
+				font-size: 18px;
+				float: right;}
+
+
+							  
+							  
+/* active selected tab in the sidebarmenu */
+        .skin-blue .main-sidebar .sidebar .sidebar-menu .active a{
+							  font-family: Montserrat, "Open Sans", Helvetica, Arial, sans-serif;
+							  font-weight: 700;
+							  font-size: 1.2vw;
+                              background-color: #e5e5e6;
+							  color: #1e4659;
+                              }	
+
+/* other links in the sidebarmenu */
+        .skin-blue .main-sidebar .sidebar .sidebar-menu a{
+							  font-family: Montserrat, "Open Sans", Helvetica, Arial, sans-serif;
+							  font-weight: 500;
+							  font-size: 1.2vw;
+                              background-color: #e5e5e6;
+                              color: #1e4659;
+                              }	
+
+/* other links in the sidebarmenu when hovered */
+         .skin-blue .main-sidebar .sidebar .sidebar-menu a:hover{
+                              background-color: #d1d2d4;
+                              }
+/* toggle button when hovered  */                    
+         .skin-blue .main-header .navbar .sidebar-toggle:hover{
+                              background-color: #d1d2d4;
+                              }	
+/* body */
+		.content-wrapper, .right-side {
+                                background-color: #ffffff;
+                                font-family: Montserrat, "Open Sans", Helvetica, Arial, sans-serif;
+								font-weight: 400
+								font-size: 1vw;
+.header2{
+  font-family: Montserrat, "Open Sans", Helvetica, Arial, sans-serif;
+  font-weight: 1000;
+  font-size: 100px;
+}
+				.h1{
+  font-family: Montserrat, "Open Sans", Helvetica, Arial, sans-serif;
+  font-weight: 1000;
+  font-size: 100px;
+}
+				.h2{
+  font-family: Montserrat, "Open Sans", Helvetica, Arial, sans-serif;
+  font-weight: 400;
+  font-size: 18px;
+  font-color: #8cc63e;
+}
+				.h3{
+  font-family: Montserrat, "Open Sans", Helvetica, Arial, sans-serif;
+  font-weight: 400;
+  font-size: 16px;
+}
+
+}
+
+
+						  
